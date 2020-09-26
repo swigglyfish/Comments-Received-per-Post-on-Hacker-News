@@ -1,2 +1,1 @@
-# comments-per-post
-comments-per-post
+# Comments-Received-per-Post-on-Hacker-News
