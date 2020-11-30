@@ -1,3 +1,3 @@
-<h1 align="center">Comments Received per Hacker News Post</h1>
+<h1 align="center">Comments on Hacker News Posts</h1>
 
-<img src="Photos/HN.png">
+<img src="Photos/HN.png" width=100%>
